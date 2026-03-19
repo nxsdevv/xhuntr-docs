@@ -53,9 +53,9 @@ T+1h    CT amplifies, retail discovers it
 
 ## How It Works
 
-X community data isn't in the public Twitter API. Community membership lives in X's internal GraphQL endpoints — which require authenticated sessions, continuous polling, and rate limit management.
+X community data isn't accessible through standard tools. XHuntr uses proprietary monitoring infrastructure to track community activity for each account you follow — most tools haven't built this layer, which is why they don't offer it.
 
-XHuntr maintains those sessions and polls each tracked account every 10–30 seconds. Detection latency is typically under 30 seconds from event to Telegram alert.
+Detection latency is typically under 30 seconds from event to Telegram alert.
 
 ---
 
