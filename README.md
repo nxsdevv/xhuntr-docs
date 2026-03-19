@@ -100,8 +100,18 @@ XHuntr is the only tool covering the social layer. Use it alongside Cielo or GMG
 
 Keep it focused. 15–20 accounts is the right size. Quality beats quantity.
 
+
 ---
 
+## Documentation
+
+| Guide | Description |
+|-------|-------------|
+| [Setup Guide](docs/setup.md) | Get started in 2 minutes — add accounts, understand the bot commands |
+| [Alert Types](docs/alert-types.md) | What each alert means and when to act |
+| [Which Accounts to Track](docs/which-accounts-to-track.md) | How to build a high-signal tracked list |
+
+---
 <div align="center">
 
 **→ [xhuntr.com](https://xhuntr.com) · [Start on Telegram](https://t.me/XHuntrbot)**
